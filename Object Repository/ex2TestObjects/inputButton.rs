@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input</name>
+   <name>inputButton</name>
    <tag></tag>
    <elementGuidId>83450826-40c4-4470-9c4d-30f5f9770424</elementGuidId>
    <selectorCollection>
