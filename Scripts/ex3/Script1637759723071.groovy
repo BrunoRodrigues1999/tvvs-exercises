@@ -17,3 +17,14 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+/*Some usefull tips to get you started
+  *
+  * WebUI.openBrowser(''); //launches the browser
+  * WebUI.navigateToUrl(); // url you want to test
+  * findTestObject() //gets a testObject
+  * WebUI.setText() //set a test input defined by you
+  * WebUI.click() // executes a click event
+  *WebUI.verifyElementPresent() //checks for the presence of an element
+  */
+
+//////////Start here////////////
